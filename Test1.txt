@@ -1,0 +1,2 @@
+This is first file to commit in git repo
+added few lines and push to repo
